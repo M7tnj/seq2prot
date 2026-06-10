@@ -73,11 +73,8 @@
 - [Overview](#-overview)
 - [Quick Start](#-quick-start)
 - [Pipeline Overview](#-pipeline-overview)
-- [Phase 1: Variant Discovery (Steps 0–6)](#-phase-1-variant-discovery-steps-06)
-- [Phase 2: Advanced Analysis (Steps 7–14)](#-phase-2-advanced-analysis-steps-714)
 - [Visualizations](#-visualizations)
 - [Methodology](#-methodology)
-- [Project Structure](#-project-structure)
 
 ---
 
